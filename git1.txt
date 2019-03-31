@@ -1,6 +1,3 @@
 hello good morning
 how are you
-I am changing git1 in local repository
-
-I am changing git1 in remote repository
 
