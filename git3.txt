@@ -4,4 +4,4 @@ how do you do!!!
 ******************
 !!!!!!!!!!!!!!!!!!
 $$$$$$$$
-I want to see the changes in remote at local by using git fetch command
+I want to see the changes in remote at local by using git fetch command.
