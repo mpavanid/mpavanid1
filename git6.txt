@@ -1,0 +1,3 @@
+Hello april
+
+I am adding git6 in local repository
