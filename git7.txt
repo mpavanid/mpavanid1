@@ -1,0 +1,3 @@
+I am adding git7 command
+
+I want to test -a command
