@@ -1,9 +1,5 @@
 Hello april
 
-I am adding git6 in local repository
+I am modifying again to see git diff command only 
 
-i am chnging git6 for the first time locally
-
-i am changing git 6 locally 1st time
-
-I am modifying git6 to see diff command
+and also to see git diff -cached

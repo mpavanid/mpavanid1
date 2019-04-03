@@ -1,9 +1,8 @@
 good morning!!!!!!
 
-
-I am changing git5 repository locally
-
-i am changing git5 locally again
-
-I am changing the git5 remotely
+checkout
+checkout
+checkout
+checkout
+checkout --5 times
 
