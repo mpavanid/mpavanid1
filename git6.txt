@@ -5,3 +5,5 @@ I am adding git6 in local repository
 i am chnging git6 for the first time locally
 
 i am changing git 6 locally 1st time
+
+I am modifying git6 to see diff command
