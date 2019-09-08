@@ -1,13 +1,4 @@
 hello good morning
 how are you
 
-I am changing git1 in local
-
-
-I am changing again in local
-
-
-
-I am changing again in remote
-
 
