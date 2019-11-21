@@ -6,3 +6,5 @@ Want to check git reset commands Git resets are :
 1.soft
 2.mixed
 3.hard
+
+reset
