@@ -1,10 +1,2 @@
-Final Resolution By                         : L2
-Parties contributed to resolution    :
-Action taken from L2 side              : Permanent Resolution 
-Details of action                              :Password reset done for user
-Incident Cause category                :USER ADMIN REQUEST
-Root Cause                                        : 
-Oracle SR details if raised              :n
-PDBA/PRP details if raised            : n
-Datafix script if applied (Y/N)       : n
-Missing Setup carried out              : 
+Hello Manasa
+Hello How are you
