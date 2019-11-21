@@ -1,3 +1,8 @@
 I lost my Temper
 
 I want to become a software engineer
+
+Want to check git reset commands Git resets are :
+1.soft
+2.mixed
+3.hard
