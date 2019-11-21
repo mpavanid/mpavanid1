@@ -3,3 +3,7 @@ how are you
 where are you from????????
 
 I am changing git2 in local repo
+
+to check git diff functionality
+
+hello I am pavani how are you..!!
